@@ -10,6 +10,7 @@ The dataset consists of images categorized into 8 folders, each representing a w
 Steps taken:
 - Converted all images to `.jpg` and RGB format
 - Dataset split into `train`, `validation`, and `test` (80/10/10)
+- Dtatset Source: https://www.kaggle.com/datasets/jehanbhathena/weather-dataset
 ---
 ## 🔧 Preprocessing
 
